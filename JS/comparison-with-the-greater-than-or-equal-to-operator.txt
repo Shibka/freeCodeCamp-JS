@@ -6,7 +6,6 @@ function testGreaterOrEqual(val) {
   if (val >= 10) {  // Change this line
     return "10 or Over";
   }
-
   return "Less than 10";
 }
 
