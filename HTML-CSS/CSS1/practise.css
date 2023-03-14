@@ -1,0 +1,31 @@
+/* #first {
+    max-width: 180px;
+    min-width: 60px;
+    max-height: 180px;
+    min-height: 60px;
+}
+
+.second {
+    resize: none;
+    width: 170px;
+    height: 100px;
+}
+
+textarea {
+    resize: horizontal;
+    width: 170px;
+    height: 100px;
+}
+
+.third {
+    resize: vertical;
+    width: 170px;
+    height: 100px;
+} */
+
+p {
+    color: red;
+}
+.d, h2 {
+    color: blue;
+}
